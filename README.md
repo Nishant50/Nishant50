@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Machine Learning,IOT**
 
-- 📫 How to reach me **nishantmohanty2000@gmail.com**
-
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
